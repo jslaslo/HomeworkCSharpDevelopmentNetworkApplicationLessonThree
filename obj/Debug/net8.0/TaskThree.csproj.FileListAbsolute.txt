@@ -1,0 +1,14 @@
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\bin\Debug\net8.0\TaskThree.exe
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\bin\Debug\net8.0\TaskThree.deps.json
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\bin\Debug\net8.0\TaskThree.runtimeconfig.json
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\bin\Debug\net8.0\TaskThree.dll
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\bin\Debug\net8.0\TaskThree.pdb
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\TaskThree.AssemblyInfoInputs.cache
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\TaskThree.AssemblyInfo.cs
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\TaskThree.csproj.CoreCompileInputs.cache
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\TaskThree.dll
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\refint\TaskThree.dll
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\TaskThree.pdb
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\TaskThree.genruntimeconfig.cache
+D:\GeekBrines\DevelopmentNetworkApplication\Seminar\LessonThree\LessonThree\TaskThree\obj\Debug\net8.0\ref\TaskThree.dll
